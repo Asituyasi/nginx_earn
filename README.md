@@ -1,1 +1,1 @@
-# nginx_earn
+# nginx learn
